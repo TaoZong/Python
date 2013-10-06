@@ -1,0 +1,2 @@
+DynamoNode.nodelist.append(self)// adding zeroRPC instead of class
+Framework.Schedule// change msg.to_node.rcvmsg(msg) to zeroRPC call

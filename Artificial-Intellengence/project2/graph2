@@ -1,0 +1,34 @@
+## vertices
+CableCarMuseum lat=37.47.44N long=122.24.50W
+FishermansWharf lat=37.48.27N long=122.24.50W
+Pier39 lat=38.47.37N long=122.24.38W
+GhirardelliSquare lat=37.48.21N long=122.25.24W
+Alcatraz lat=37.49.36N long=122.25.23W
+GoldenGateBridge lat=37.49.05N long=122.48.40W
+Chinatown lat=37.47.37N long=122.24.41W
+CastroTheatre lat=37.45.42N long=122.26.06W
+CityHall lat=37.46.48N long=122.25.12W
+SFMOMA lat=37.47.09N long=122.24.05W
+GoldenGatePark lat=37.46.08N long=122.29.00W
+UnionSquare lat=37.47.16N long=122.24.28W
+CoitTower lat=37.48.09N long=122.24.21W
+SutroTower lat=37.45.18N long=122.27.10W
+TransamericaPyramid lat=37.47.42N long=122.24.10W
+USF lat=37.46.36N long=122.27.03W
+## edges
+CableCarMuseum FishermansWharf distance=1.6km time=5min
+CableCarMuseum USF distance=5.3km time=13min
+FishermansWharf Pier39 distance=0.6km time=1min
+Pier39 GhirardelliSquare distance=1.1km time=3min
+GhirardelliSquare Alcatraz distance=1.6km time=3min
+Alcatraz GoldenGateBridge distance=7.5km time=9min
+GoldenGateBridge Chinatown distance=12.9km time=16min
+Chinatown CastroTheatre distance=5.7km time=14min
+CastroTheatre CityHall distance=3.1km time=8min
+CityHall SFMOMA distance=2.8km time=7min
+SFMOMA GoldenGatePark distance=9.4km time=20min
+GoldenGatePark UnionSquare distance=9.2km time=18min
+UnionSquare CoitTower distance=2.6km time=6min
+CoitTower SutroTower distance=9.2km time=22min
+SutroTower TransamericaPyramid distance=9.3km time=20min
+TransamericaPyramid USF distance=5.9km time=13min
